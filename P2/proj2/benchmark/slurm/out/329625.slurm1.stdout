@@ -1,0 +1,27 @@
+Running sequential benchmark for test size: xsmall
+Running sequential benchmark for test size: small
+Running sequential benchmark for test size: medium
+Running sequential benchmark for test size: large
+Running sequential benchmark for test size: xlarge
+Running parallel benchmark for test size: xsmall with 2 threads
+Running parallel benchmark for test size: xsmall with 4 threads
+Running parallel benchmark for test size: xsmall with 6 threads
+Running parallel benchmark for test size: xsmall with 8 threads
+Running parallel benchmark for test size: xsmall with 12 threads
+Running parallel benchmark for test size: small with 2 threads
+Running parallel benchmark for test size: small with 4 threads
+Running parallel benchmark for test size: small with 6 threads
+Running parallel benchmark for test size: small with 8 threads
+Running parallel benchmark for test size: small with 12 threads
+Running parallel benchmark for test size: medium with 2 threads
+Running parallel benchmark for test size: medium with 4 threads
+Running parallel benchmark for test size: medium with 6 threads
+Running parallel benchmark for test size: medium with 8 threads
+Running parallel benchmark for test size: medium with 12 threads
+Running parallel benchmark for test size: large with 2 threads
+Running parallel benchmark for test size: large with 4 threads
+Running parallel benchmark for test size: large with 6 threads
+Running parallel benchmark for test size: large with 8 threads
+Running parallel benchmark for test size: large with 12 threads
+Running parallel benchmark for test size: xlarge with 2 threads
+Running parallel benchmark for test size: xlarge with 4 threads

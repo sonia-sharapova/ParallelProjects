@@ -1,0 +1,61 @@
+{
+    "name": "HW1 Completeness Score",  
+    "timeout": "2m", 
+    "total": 80, 
+    "items": [
+              {
+                "item": "Problem 1 Tests", 
+                "tests": [ {"name":"Expand",
+                            "type": "test",  
+                            "tabledriven": true, 
+                            "dir": "hw1/problem1", 
+                            "points": 10, 
+                            "total": 16 
+                           }
+                         ]
+              },
+              { "item": "Problem 2 Tests", 
+                "tests": [ {"name":"Log", 
+                            "type":"test", 
+                            "tabledriven": true,  
+                            "dir": "hw1/problem2", 
+                            "points": 15,
+                            "total": 15
+                           }
+                         ]
+              },  
+              {
+                "item": "Problem 3 Tests", 
+                "tests": [ {"name":"NAry",
+                            "type": "test",  
+                            "tabledriven": true, 
+                            "dir": "hw1/problem3", 
+                            "points": 25, 
+                            "total": 15
+                           }
+                         ]
+              }, 
+              {
+                "item": "Problem 4 Tests", 
+                "tests": [ {"name":"BadArgs",
+                            "type": "test",  
+                            "tabledriven": true, 
+                            "dir": "hw1/problem4", 
+                            "points": 10, 
+                            "total": 10 
+                           },
+                           {"name":"GoodArgs",
+                            "type": "test",  
+                            "tabledriven": true, 
+                            "dir": "hw1/problem4", 
+                            "points": 20, 
+                            "total": 9 
+                           } 
+
+                         ]
+              }
+            ]
+}
+ 
+                         
+                         

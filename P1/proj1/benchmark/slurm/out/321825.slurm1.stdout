@@ -1,0 +1,91 @@
+running small with 1 threads
+Parallel Section Execution Time: 9.61 seconds
+9.61
+
+Data Dir: small, Threads: 1, Runtime: 9.89 seconds
+running small with 2 threads
+Parallel Section Execution Time: 5.10 seconds
+5.10
+
+Data Dir: small, Threads: 2, Runtime: 5.47 seconds
+running small with 4 threads
+Parallel Section Execution Time: 3.31 seconds
+3.31
+
+Data Dir: small, Threads: 4, Runtime: 3.64 seconds
+running small with 6 threads
+Parallel Section Execution Time: 2.64 seconds
+2.64
+
+Data Dir: small, Threads: 6, Runtime: 2.95 seconds
+running small with 8 threads
+Parallel Section Execution Time: 2.33 seconds
+2.33
+
+Data Dir: small, Threads: 8, Runtime: 2.69 seconds
+running small with 12 threads
+Parallel Section Execution Time: 1.93 seconds
+1.93
+
+Data Dir: small, Threads: 12, Runtime: 2.26 seconds
+running mixture with 1 threads
+Parallel Section Execution Time: 60.89 seconds
+60.89
+
+Data Dir: mixture, Threads: 1, Runtime: 61.23 seconds
+running mixture with 2 threads
+Parallel Section Execution Time: 38.66 seconds
+38.66
+
+Data Dir: mixture, Threads: 2, Runtime: 38.98 seconds
+running mixture with 4 threads
+Parallel Section Execution Time: 20.84 seconds
+20.84
+
+Data Dir: mixture, Threads: 4, Runtime: 21.82 seconds
+running mixture with 6 threads
+Parallel Section Execution Time: 19.02 seconds
+19.02
+
+Data Dir: mixture, Threads: 6, Runtime: 19.42 seconds
+running mixture with 8 threads
+Parallel Section Execution Time: 18.04 seconds
+18.05
+
+Data Dir: mixture, Threads: 8, Runtime: 18.35 seconds
+running mixture with 12 threads
+Parallel Section Execution Time: 18.58 seconds
+18.58
+
+Data Dir: mixture, Threads: 12, Runtime: 18.90 seconds
+running big with 1 threads
+Parallel Section Execution Time: 142.73 seconds
+142.73
+
+Data Dir: big, Threads: 1, Runtime: 143.06 seconds
+running big with 2 threads
+Parallel Section Execution Time: 74.05 seconds
+74.05
+
+Data Dir: big, Threads: 2, Runtime: 74.40 seconds
+running big with 4 threads
+Parallel Section Execution Time: 46.93 seconds
+46.93
+
+Data Dir: big, Threads: 4, Runtime: 47.26 seconds
+running big with 6 threads
+Parallel Section Execution Time: 38.25 seconds
+38.25
+
+Data Dir: big, Threads: 6, Runtime: 38.63 seconds
+running big with 8 threads
+Parallel Section Execution Time: 33.16 seconds
+33.16
+
+Data Dir: big, Threads: 8, Runtime: 33.70 seconds
+running big with 12 threads
+Parallel Section Execution Time: 26.62 seconds
+26.62
+
+Data Dir: big, Threads: 12, Runtime: 29.34 seconds
+{'small': [9.894398212432861, 5.47065806388855, 3.6442062854766846, 2.954188585281372, 2.6938090324401855, 2.2616872787475586], 'mixture': [61.22795057296753, 38.98233366012573, 21.821871519088745, 19.417701482772827, 18.35348629951477, 18.90227723121643], 'big': [143.05981922149658, 74.39954352378845, 47.26466751098633, 38.62906050682068, 33.69682598114014, 29.335491180419922]}

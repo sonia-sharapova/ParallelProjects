@@ -1,0 +1,75 @@
+{
+    "name": "HW2 Completeness Score",  
+    "timeout": 900, 
+    "total": 65, 
+    "items": [
+              { "item": "Pi Tests", 
+                "tests": [ {"name":"Pi", 
+                            "type":"test", 
+                            "tabledriven": true,  
+                            "dir": "hw2/pi", 
+                            "points": 30,
+                            "timeout": "20m", 
+                            "total": 16
+                           }
+                         ]
+              }, 
+              {
+                "item": "WaitGroup Tests", 
+                "tests": [ {"name":"1",
+                            "type": "test",  
+                            "tabledriven": false, 
+                            "dir": "hw2/waitgroup",
+                            "points": 5, 
+                            "total": 1 
+                           },
+                           {"name":"2",
+                            "type": "test",  
+                            "tabledriven": false, 
+                            "dir": "hw2/waitgroup", 
+                            "points": 5, 
+                            "total": 1 
+                           },
+                           {"name":"3",
+                            "type": "test",  
+                            "tabledriven": false, 
+                            "dir": "hw2/waitgroup", 
+                            "points": 5, 
+                            "total": 1 
+                           },
+                           {"name":"4",
+                            "type": "test",  
+                            "tabledriven": false, 
+                            "dir": "hw2/waitgroup", 
+                            "points": 5, 
+                            "total": 1 
+                           },
+                           {"name":"5",
+                            "type": "test",  
+                            "tabledriven": false, 
+                            "dir": "hw2/waitgroup", 
+                            "points": 5, 
+                            "total": 1 
+                           },
+                           {"name":"6",
+                            "type": "test",  
+                            "tabledriven": false, 
+                            "dir": "hw2/waitgroup", 
+                            "points": 5, 
+                            "total": 1
+                           },
+                           {"name":"Wait",
+                            "type": "test",  
+                            "tabledriven": false, 
+                            "dir": "hw2/waitgroup", 
+                            "points": 5, 
+                            "total": 1 
+                           } 
+                          
+                         ]
+              }
+            ]
+}
+ 
+                         
+                         
