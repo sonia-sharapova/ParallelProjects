@@ -1,0 +1,10 @@
+Mode,Workers,Duration_ms,Folders,Frames,Speedup
+sequential,1,119971,1,1472,1.0000
+pipeline,2,110370,1,1472,1.0870
+pipeline,4,110700,1,1472,1.0838
+pipeline,6,109217,1,1472,1.0985
+pipeline,8,109984,1,1472,1.0908
+workstealing,2,118121,1,1472,1.0157
+workstealing,4,119094,1,1472,1.0074
+workstealing,6,119144,1,1472,1.0069
+workstealing,8,118369,1,1472,1.0135
